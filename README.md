@@ -21,7 +21,7 @@ A Node.js tool designed to scan FiveM resource directories for `.ymap` files, an
 
 1. **Clone the Repository** (if applicable):
    ```bash
-   git clone https://github.com/yourusername/ymap-coords-finder.git
+   git clone https://github.com/mindkind/ymap-coords-finder.git
    cd ymap-coords-finder
    ```
 

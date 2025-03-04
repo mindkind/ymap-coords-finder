@@ -4,7 +4,8 @@ const { spawn } = require('child_process');
 
 // Directories to check (your custom .ymap folders)
 const directoriesToCheck = [
-  '../[maps]/',
+  '../resources/[maps]/[maps-paid]',
+  '../resources/[maps]/[maps-unpaid]',
 ];
 const baseGameIdentifiersPath = './data/ymaps.lst';
 const postalCodesPath = './data/postals.json';
