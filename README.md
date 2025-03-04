@@ -43,6 +43,8 @@ A Node.js tool designed to scan FiveM resource directories for `.ymap` files, an
    chmod +x bin/osx-x64/YmapChecker
    ```
 
+   **Note:** The `YmapChecker` executable used in this script comes from [mindkind/YmapChecker](https://github.com/mindkind/YmapChecker).
+
 4. **Prepare Data Files**:
    - Copy `ymaps.lst` (list of base-game .ymap names) to `data/ymaps.lst`.
    - Copy `postals.json` (postal code coordinates, e.g., `[{"x": ..., "y": ..., "code": ...}, ...]`) to `data/postals.json`.
